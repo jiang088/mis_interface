@@ -1,6 +1,6 @@
 class InterfaceController < ApplicationController
   def index
-  	render :text => "hello"
+  	render :text => "hello1"
   end
 # free_tds, tiny_tds
   def test
